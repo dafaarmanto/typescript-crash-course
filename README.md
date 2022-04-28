@@ -1,7 +1,8 @@
 # Typescript Crash Course
 Typescript Crash Course - Basic Types, Tuple, Tuple Array, Union, Enum, Objects, Type Assertion, Function, Void, Interafaces, Class, Subclass, and Generics
 
-You can clone this repository as your resource to learn typescript
+You can clone this repository as your resource to learn typescript<br>
+If you still confuse, you can search in typescript documentation on their [website](https://www.typescriptlang.org/)
 
 ---
 
