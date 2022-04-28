@@ -4,6 +4,8 @@ Typescript Crash Course - Basic Types, Tuple, Tuple Array, Union, Enum, Objects,
 You can clone this repository as your resource to learn typescript<br>
 If you still confuse, you can search in typescript documentation on their [website](https://www.typescriptlang.org/)
 
+> Main .ts file are in src directory
+
 ---
 
 1. First install typescript
